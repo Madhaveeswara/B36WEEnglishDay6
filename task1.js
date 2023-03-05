@@ -1,1 +1,1 @@
-console.log(" Day 6 task starting... ");
+console.log(" Hello World ");
